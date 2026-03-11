@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## ◈ Overview
 
 > **ArchLab LegalTech → MS** es una aplicación que valida la implementación de Architecture for LegalTech Governance mediante A Taxonomy-Driven Approach for Validating LegalTech Governance: Empirical Evidence from Microservices Implementations.  
