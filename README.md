@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=ArchLab%20LegalTech%20%E2%86%92%20MS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=A%20Taxonomy-Driven%20Approach%20for%20Validating%20LegalTech%20Governance%3A%20Empirical%20Evidence%20from%20Microservices%20Implementations&descAlignY=60&descSize=13&descColor=c8b8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=ArchLab%20LegalTech&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=A%20Taxonomy-Driven%20Approach%20for%20Validating%20LegalTech%20Governance%3A%20Empirical%20Evidence%20from%20Microservices%20Implementations&descAlignY=60&descSize=13&descColor=c8b8ff" width="100%"/>
 
 <!-- BADGES ROW -->
 [![Version](https://img.shields.io/badge/version-1.0.0-blueviolet?style=flat-square)](https://github.com/username/repo/releases)
