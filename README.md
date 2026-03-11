@@ -1,7 +1,5 @@
 <div align="center">
-
-<!-- HERO BANNER — reemplaza con tu imagen o elimina -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=PROJECT%20NAME&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=One%20powerful%20line%20that%20describes%20what%20you%20build&descAlignY=60&descSize=18&descColor=c8b8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=ArchLab%20LegalTech%20%E2%86%92%20MS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=A%20Taxonomy-Driven%20Approach%20for%20Validating%20LegalTech%20Governance%3A%20Empirical%20Evidence%20from%20Microservices%20Implementations&descAlignY=60&descSize=13&descColor=c8b8ff" width="100%"/>
 
 <!-- BADGES ROW -->
 [![Version](https://img.shields.io/badge/version-1.0.0-blueviolet?style=flat-square)](https://github.com/username/repo/releases)
@@ -16,7 +14,7 @@
 
 ## ◈ Overview
 
-> **ArchLab LegalTech  → MS** es una aplicación que valida la implementación de Architecture for LegalTech Governance mediante A Taxonomy-Driven Approach for Validating LegalTech Governance: Empirical Evidence from Microservices Implementations.  
+> **ArchLab LegalTech → MS** es una aplicación que valida la implementación de Architecture for LegalTech Governance mediante A Taxonomy-Driven Approach for Validating LegalTech Governance: Empirical Evidence from Microservices Implementations.  
 > Diseñada para ser [rápida / simple / escalable / elegante].
 
 ```
