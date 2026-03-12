@@ -25,7 +25,7 @@
 ## ◈ Preview
 
 <div align="center">
-<img src="https://via.placeholder.com/900x500/0f0c29/c8b8ff?text=Screenshot+or+Demo+GIF" width="90%" alt="preview"/>
+<img src="/desing/lab.png" width="90%" alt="preview"/>
 </div>
 
 ---
@@ -181,3 +181,9 @@ Distribuido bajo la licencia **MIT**. Ver [`LICENSE`](LICENSE) para más informa
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
+
+## ◈ History of development (CLI - CMD - )
+
+step by step.
+- instalar docker y levantarlo
+- 
