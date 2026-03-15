@@ -31,6 +31,19 @@
 
 ---
 
+## ◈ Diseño del experimento
+
+> **ArchLab LegalTech → MS** es una aplicación que valida la implementación de Architecture for LegalTech Governance mediante A Taxonomy-Driven Approach for Validating LegalTech Governance: Empirical Evidence from Microservices Implementations.  
+> Diseñada para ser [rápida / simple / escalable / elegante].
+<img src="/01ArchLegalTechGov.png" width="90%" alt="preview"/>
+
+```
+✦ Característica clave 1       ✦ Característica clave 2
+✦ Característica clave 3       ✦ Característica clave 4
+```
+
+---
+
 ## ◈ Stack
 
 <div align="center">
