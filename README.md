@@ -5,18 +5,11 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=Architecture%20Ontology&fontSize=30&fontColor=475569&fontAlignY=55&animation=twinkling" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=⬢%20⇄%20⬡%20⇄%20🕸️&fontSize=30&fontColor=666&fontAlignY=55&animation=twinkling" width="100%"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=⬢%20⇄%20⬡%20⇄%20🕸️&fontSize=30&fontColor=6666AA&fontAlignY=45&animation=twinkling&desc=Structural%20Digital%20Twin%E2%80%93Driven%20Validation%0Afor%20a%20Multidimensional%20LegalTech%20Governance%0AArchitecture%20Ontology&descAlignY=75&descSize=20&descColor=475569" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=⬢%20⇄%20⬡%20⇄%20🕸️&fontSize=30&fontColor=6666AA&fontAlignY=45&animation=twinkling&desc=Structural%20Digital%20Twin%E2%80%93Driven%20Validation%20for%20a%20Multidimensional%20LegalTech%20Governance%20Architecture%20Ontology&descAlignY=75&descSize=25&descColor=475569" width="100%"/>
-
-# <font color="#6666AA"> ⬢ ⇄ ⬡ ⇄ 🕸️ </font>
 # <font color="#6666AA"> Structural Digital Twin–Driven Validation for a Multidimensional LegalTech Governance Architecture Ontology </font>
-
+# <font color="#6666AA"> ⬢ ⇄ ⬡ ⇄ 🕸️ </font>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0f172a&center=true&vCenter=true&width=860&height=60&lines=MALTG+v3" alt="MALTG v3"/>
-
+<img src="assets/line.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=1e3a5f&center=true&vCenter=true&width=860&height=40&lines=Multi-Layer+LegalTech+Governance+Ontology;Structural+Digital+Twin+Validation;TOGAF+%C2%B7+COBIT+%C2%B7+NIST+%C2%B7+GDPR+%C2%B7+eIDAS+%C2%B7+NIS2;OWL+2+%C2%B7+FastAPI+%C2%B7+D3.js+%C2%B7+Docker" alt="Typing SVG"/>
 
