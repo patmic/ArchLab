@@ -10,43 +10,11 @@
 <br/>
 **MALTG: Structural Digital Twin–Driven Validation of a Multidimensional LegalTech Governance Ontology for Integrated Enterprise Standards”**
 <br/>
-<div align="center">
-
-<!-- Card 1 -->
-<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
-  <h3 style="margin:0; color:#111827;">Pylint</h3>
-  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
-    Lint a Python application with pylint.
-  </p>
-  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
-    Configure
-  </a>
+<div style="border:1px solid #ddd; border-radius:8px; padding:16px; margin:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+  <h3>Pylint</h3>
+  <p>Lint a Python application with pylint.</p>
+  <a href="#" style="background:#2563eb; color:#fff; padding:6px 12px; border-radius:6px; text-decoration:none;">Configure</a>
 </div>
-
-<!-- Card 2 -->
-<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
-  <h3 style="margin:0; color:#111827;">Python Package using Anaconda</h3>
-  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
-    Create and test a Python package on multiple Python versions using Anaconda for package management.
-  </p>
-  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
-    Configure
-  </a>
-</div>
-
-<!-- Card 3 -->
-<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
-  <h3 style="margin:0; color:#111827;">Python Package</h3>
-  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
-    Create and test a Python package on multiple Python versions.
-  </p>
-  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
-    Configure
-  </a>
-</div>
-
-</div>
-
 <br/>
 
 [![Version](https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=flat-square&labelColor=050810)](https://github.com)
