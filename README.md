@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="MALTG v3 — LegalTech Governance Ontology"/>
-
+ 
+ 
+**MALTG: Multidimensional LegalTech Governance Ontology Architecture with Structural Digital Twin–Driven Validation Methodology for Enterprise Standards Integration**
 <br/>
 
 [![Version](https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=flat-square&labelColor=050810)](https://github.com)
