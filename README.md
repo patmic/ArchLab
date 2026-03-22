@@ -1,5 +1,7 @@
 <div align="center"><br/>
 
+<img src="https://capsule-render.vercel.app–Driven%20Validation&fontSize=45&fontColor=111827&animation=fadeIn&fontAlignY=38&desc=Structural%20Validation%20for%20a%20Multidimensional%20LegalTech%20Governance%20Architecture%20Ontology&descAlignY=62&descSize=18&descColor=374151&color=gradient&customColorList=2,12,18" width="100%" />
+
 # <font color="#6666AA"> Structural Digital Twin–Driven Validation for a Multidimensional LegalTech Governance Architecture Ontology </font>
 # <font color="#6666AA"> ⬢ ⇄ ⬡ ⇄ 🕸️ </font>
 
