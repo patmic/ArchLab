@@ -10,16 +10,42 @@
 <br/>
 **MALTG: Structural Digital Twin–Driven Validation of a Multidimensional LegalTech Governance Ontology for Integrated Enterprise Standards”**
 <br/>
+<div align="center">
 
-[![Version](https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=flat-square&labelColor=050810)](https://github.com)
-[![OWL Classes](https://img.shields.io/badge/OWL%202%20Classes-54-a855f7?style=flat-square&labelColor=050810)](data/MALTG_onto.owl)
-[![DT Services](https://img.shields.io/badge/DT%20Services-39-10e98c?style=flat-square&labelColor=050810)](data/dt_arch.json)
-[![Dimensions](https://img.shields.io/badge/Validation%20Dims-9-ffc947?style=flat-square&labelColor=050810)](backend/main.py)
-[![Docker](https://img.shields.io/badge/Docker-ready-60a5fa?style=flat-square&labelColor=050810&logo=docker&logoColor=60a5fa)](docker-compose.yml)
-[![Target](https://img.shields.io/badge/Target-KBS%20Q1%20%C2%B7%20IF%208.8-ff9a3c?style=flat-square&labelColor=050810)](https://www.sciencedirect.com/journal/knowledge-based-systems)
-[![License](https://img.shields.io/badge/license-MIT-f472b6?style=flat-square&labelColor=050810)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-zenodo.XXXXX-64748b?style=flat-square&labelColor=050810)](https://zenodo.org)
+<!-- Card 1 -->
+<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
+  <h3 style="margin:0; color:#111827;">Pylint</h3>
+  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
+    Lint a Python application with pylint.
+  </p>
+  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
+    Configure
+  </a>
+</div>
 
+<!-- Card 2 -->
+<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
+  <h3 style="margin:0; color:#111827;">Python Package using Anaconda</h3>
+  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
+    Create and test a Python package on multiple Python versions using Anaconda for package management.
+  </p>
+  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
+    Configure
+  </a>
+</div>
+
+<!-- Card 3 -->
+<div style="display:inline-block; width:280px; margin:10px; padding:20px; border:1px solid #e5e7eb; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:left; background:#fff;">
+  <h3 style="margin:0; color:#111827;">Python Package</h3>
+  <p style="color:#4b5563; font-size:14px; margin:10px 0;">
+    Create and test a Python package on multiple Python versions.
+  </p>
+  <a href="#" style="display:inline-block; padding:8px 12px; background:#2563eb; color:#fff; border-radius:6px; text-decoration:none; font-size:14px;">
+    Configure
+  </a>
+</div>
+
+</div>
 
 <br/>
 
