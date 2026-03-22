@@ -4,48 +4,36 @@
 
 <br/>
 
-<!-- STACK BADGES — shields.io simple-icons (100% GitHub-safe, no inline SVG) -->
-<p>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/OWL_2-6B21A8?style=for-the-badge&logo=semanticweb&logoColor=white" alt="OWL 2"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Multi-Layer+LegalTech+Governance+Ontology;Structural+Digital+Twin+Validation;TOGAF+%C2%B7+COBIT+%C2%B7+NIST+%C2%B7+GDPR+%C2%B7+eIDAS+%C2%B7+NIS2;OWL+2+%C2%B7+FastAPI+%C2%B7+D3.js+%C2%B7+Docker" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,docker,fastapi,github,vscode&theme=dark" alt="Tech Stack"/>
+
+<br/><br/>
+
+<a href="https://github.com"><img src="https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=00e5ff" alt="version"/></a>
+<a href="data/MALTG_onto.owl"><img src="https://img.shields.io/badge/OWL_2_Classes-54-a855f7?style=for-the-badge&labelColor=0d1117" alt="OWL Classes"/></a>
+<a href="data/dt_arch.json"><img src="https://img.shields.io/badge/DT_Services-39-10e98c?style=for-the-badge&labelColor=0d1117" alt="DT Services"/></a>
+<a href="backend/main.py"><img src="https://img.shields.io/badge/Validation_Dims-9-ffc947?style=for-the-badge&labelColor=0d1117" alt="Dimensions"/></a>
 
 <br/>
 
-<h2>MALTG: Structural Digital Twin-Driven Validation<br/>of a Multidimensional LegalTech Governance Ontology</h2>
-<p><em>for Integrated Enterprise Standards</em></p>
+<a href="docker-compose.yml"><img src="https://img.shields.io/badge/Docker-ready-2496ed?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=2496ed" alt="Docker"/></a>
+<a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><img src="https://img.shields.io/badge/KBS_Q1-IF_8.8-ff9a3c?style=for-the-badge&labelColor=0d1117" alt="Target"/></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f472b6?style=for-the-badge&labelColor=0d1117" alt="License"/></a>
+<a href="https://zenodo.org"><img src="https://img.shields.io/badge/DOI-zenodo.XXXXX-64748b?style=for-the-badge&labelColor=0d1117" alt="DOI"/></a>
 
-<br/>
-
-<!-- STATUS BADGES -->
-<p>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=for-the-badge&labelColor=050810" alt="version"/></a>
-  <a href="data/MALTG_onto.owl"><img src="https://img.shields.io/badge/OWL_2_Classes-54-a855f7?style=for-the-badge&labelColor=050810" alt="OWL Classes"/></a>
-  <a href="data/dt_arch.json"><img src="https://img.shields.io/badge/DT_Services-39-10e98c?style=for-the-badge&labelColor=050810" alt="DT Services"/></a>
-</p>
-<p>
-  <a href="backend/main.py"><img src="https://img.shields.io/badge/Validation_Dims-9-ffc947?style=for-the-badge&labelColor=050810" alt="Dimensions"/></a>
-  <a href="docker-compose.yml"><img src="https://img.shields.io/badge/Docker-ready-2496ed?style=for-the-badge&labelColor=050810&logo=docker&logoColor=2496ed" alt="Docker"/></a>
-  <a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><img src="https://img.shields.io/badge/Target-KBS_Q1_%C2%B7_IF_8.8-ff9a3c?style=for-the-badge&labelColor=050810" alt="Target"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f472b6?style=for-the-badge&labelColor=050810" alt="License"/></a>
-</p>
-
-<br/>
+<br/><br/>
 
 > **MALTG** is a multi-layer governance ontology **(OWL 2)** and live-validation dashboard that measures conformance between a formal enterprise standard reference (`MALTG_onto.owl`) and a structural digital twin of an actual LegalTech implementation (`dt_arch.json`).
-> Integrates **TOGAF 9.2 - COBIT 5 - NIST CSF 1.1 - GDPR - eIDAS - NIS2** in a single, formally defined, automatically scored architecture.
+> Integrates **TOGAF 9.2 · COBIT 5 · NIST CSF 1.1 · GDPR · eIDAS · NIS2** in a single, formally defined, automatically scored architecture.
 
 </div>
 
 ---
 
-## Architecture Layers
+## ⬡ Architecture Layers
 
 <table>
 <tr>
@@ -71,20 +59,20 @@
 
 ### 🟣 Technology Integration Layer
 
-| Layer | Components |
-|-------|-----------|
-| 🤖 **AI** | ML Models · NLP Pipeline · Computer Vision · Predictive Analytics |
-| ⛓️ **Blockchain** | Smart Contracts · DLT Network · Consensus · Tokenization |
-| 📡 **Open Data** | APIs · Data Lakes · Open Standards · Interoperability |
-| 🛡️ **Security** | Zero Trust · Encryption · IAM · Compliance |
+| | Layer | Components |
+|---|-------|-----------|
+| 🤖 | **AI** | ML Models · NLP Pipeline · Computer Vision · Predictive Analytics |
+| ⛓️ | **Blockchain** | Smart Contracts · DLT Network · Consensus · Tokenization |
+| 📡 | **Open Data** | APIs · Data Lakes · Open Standards · Interoperability |
+| 🛡️ | **Security** | Zero Trust · Encryption · IAM · Compliance |
 
 ### 🔵 Foundation Layer
 
-| Framework | Domains |
-|-----------|---------|
-| **TOGAF 9.2** | ADM Cycle · 6 architecture domains · Enterprise Continuum |
-| **COBIT 5** | EDM · APO · BAI · DSS · MEA |
-| **NIST CSF 1.1** | Identify · Protect · Detect · Respond · Recover |
+| | Framework | Domains |
+|---|-----------|---------|
+| 🏛️ | **TOGAF 9.2** | ADM Cycle · 6 architecture domains · Enterprise Continuum |
+| 🎛️ | **COBIT 5** | EDM · APO · BAI · DSS · MEA |
+| 🔒 | **NIST CSF 1.1** | Identify · Protect · Detect · Respond · Recover |
 
 </td>
 </tr>
@@ -94,87 +82,108 @@
 
 ## 🔬 Formal Validation Methodology
 
-The methodology is formalized as the **5-tuple `MALTG = (Omega, Delta, Gamma, Psi, delta)`**:
+> The methodology is formalized as the **5-tuple `MALTG = ⟨Ω, Δ, Γ, Ψ, δ⟩`**
 
 <br/>
 
-<!-- VERTICAL TIMELINE — pure HTML table, GitHub-safe -->
+**`MALTG_onto.owl`** &nbsp;·&nbsp; **`dt_arch.json`** &nbsp;·&nbsp; **`maltg_ref`** &nbsp;·&nbsp; **`Ψ engine`** &nbsp;·&nbsp; **`δ gap`**
+
+<br/>
+
 <table>
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/01-ONTOLOGY-00e5ff?style=for-the-badge&labelColor=050810" alt="Phase 1"/>
-</td>
-<td>
-
-**Omega — Ontological Reference**
-OWL 2 taxonomy `(C, P, I, subseteq, A)` — source: `MALTG_onto.owl`
-54 classes · 15 properties · Full RDF/XML serialization
-
-</td>
+<th align="center" width="120">Phase</th>
+<th align="center" width="80">Symbol</th>
+<th>Description</th>
+<th align="center" width="100">Source</th>
 </tr>
-<tr><td align="center"><sub>▼ parse</sub></td><td></td></tr>
+
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/02-DIGITAL_TWIN-10e98c?style=for-the-badge&labelColor=050810" alt="Phase 2"/>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%91%A0_ONTOLOGY-00e5ff?style=flat-square&labelColor=0d1117" alt="Phase 1"/>
 </td>
+<td align="center"><b>Ω</b></td>
 <td>
-
-**Delta — Structural Digital Twin**
-Service graph `G(V, E)` — source: `dt_arch.json`
-39 services · 54 connections · 9 architectural layers
-
+<b>Ontological Reference</b><br/>
+OWL 2 taxonomy <code>(C, P, I, ≤, A)</code><br/>
+<sub>54 classes · 15 properties · RDF/XML serialization</sub>
 </td>
+<td align="center"><code>MALTG_onto.owl</code></td>
 </tr>
-<tr><td align="center"><sub>▼ align via maltg_ref</sub></td><td></td></tr>
+
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/03-MAPPING-a855f7?style=for-the-badge&labelColor=050810" alt="Phase 3"/>
-</td>
-<td>
-
-**Gamma — Conformance Mapping**
-`Gamma: C -> 2^V` via `maltg_ref` annotations
-Each OWL class mapped to the set of DT services that implement it
-
-</td>
+<td align="center"><sub>↓ parse</sub></td>
+<td></td><td></td><td></td>
 </tr>
-<tr><td align="center"><sub>▼ score</sub></td><td></td></tr>
+
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/04-COVERAGE-ffc947?style=for-the-badge&labelColor=050810" alt="Phase 4"/>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%91%A1_DIGITAL_TWIN-10e98c?style=flat-square&labelColor=0d1117" alt="Phase 2"/>
 </td>
+<td align="center"><b>Δ</b></td>
 <td>
-
-**Psi — Hierarchical Coverage**
-`Psi(d) = 0.4 * I[root in R] + 0.6 * (|sub_d intersect R| / |sub_d|)`
-Properties: Determinism · Monotonicity · Completeness · Boundedness in [0,1]
-
+<b>Structural Digital Twin</b><br/>
+Service graph <code>G(V, E)</code><br/>
+<sub>39 services · 54 connections · 9 architectural layers</sub>
 </td>
+<td align="center"><code>dt_arch.json</code></td>
 </tr>
-<tr><td align="center"><sub>▼ gap</sub></td><td></td></tr>
+
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/05-GAP-ff4d6d?style=for-the-badge&labelColor=050810" alt="Phase 5"/>
-</td>
-<td>
-
-**delta — Conformance Gap**
-`delta(d) = score_Omega(d) * (1 - Psi(d))`
-Quantifies unrealized governance potential per dimension
-
-</td>
+<td align="center"><sub>↓ align via maltg_ref</sub></td>
+<td></td><td></td><td></td>
 </tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%91%A2_MAPPING-a855f7?style=flat-square&labelColor=0d1117" alt="Phase 3"/>
+</td>
+<td align="center"><b>Γ</b></td>
+<td>
+<b>Conformance Mapping</b><br/>
+<code>Γ: C → 2^V</code> via <code>maltg_ref</code> annotations<br/>
+<sub>Each OWL class mapped to the set of DT services that implement it</sub>
+</td>
+<td align="center"><code>maltg_ref[ ]</code></td>
+</tr>
+
+<tr>
+<td align="center"><sub>↓ score</sub></td>
+<td></td><td></td><td></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%91%A3_COVERAGE-ffc947?style=flat-square&labelColor=0d1117" alt="Phase 4"/>
+</td>
+<td align="center"><b>Ψ</b></td>
+<td>
+<b>Hierarchical Coverage</b><br/>
+<code>Ψ(d) = 0.4·𝟙[root∈R] + 0.6·(|sub_d ∩ R| / |sub_d|)</code><br/>
+<sub>Determinism · Monotonicity · Completeness · Boundedness ∈ [0,1]</sub>
+</td>
+<td align="center"><code>Ψ engine</code></td>
+</tr>
+
+<tr>
+<td align="center"><sub>↓ gap</sub></td>
+<td></td><td></td><td></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%91%A4_GAP-ff4d6d?style=flat-square&labelColor=0d1117" alt="Phase 5"/>
+</td>
+<td align="center"><b>δ</b></td>
+<td>
+<b>Conformance Gap</b><br/>
+<code>δ(d) = score_Ω(d) · (1 − Ψ(d))</code><br/>
+<sub>Quantifies unrealized governance potential per dimension</sub>
+</td>
+<td align="center"><code>GET /api/validation</code></td>
+</tr>
+
 </table>
-
-<br/>
-
-| Symbol | Name | Definition |
-|:------:|------|------------|
-| **Omega** | Ontological Reference | OWL 2 taxonomy — `MALTG_onto.owl` |
-| **Delta** | Structural Digital Twin | Service graph `G(V,E)` — `dt_arch.json` |
-| **Gamma** | Conformance Mapping | `Gamma: C -> 2^V` via `maltg_ref` annotations |
-| **Psi** | Hierarchical Coverage | `0.4*root + 0.6*(sub_d intersect R / sub_d)` |
-| **delta** | Conformance Gap | `score_Omega(d) * (1 - Psi(d))` |
 
 ---
 
@@ -182,17 +191,17 @@ Quantifies unrealized governance potential per dimension
 
 <div align="center">
 
-| Dimension | `score_Omega` | `Psi` | `dt_score` | `delta (gap)` | Status |
-|-----------|:-------------:|:-----:|:----------:|:-------------:|:------:|
-| Gobernanza TOGAF | 91.7 | 70.0% | 64.2 | 27.5 | ⚠️ |
-| Control COBIT | 84.3 | 100% | 84.3 | **0.0** | ✅ |
-| Resiliencia NIST | 77.5 | 100% | 77.5 | **0.0** | ✅ |
-| Integracion IA | 87.2 | 85.0% | 74.1 | 13.1 | ⚠️ |
-| Blockchain Adoption | 76.2 | 85.0% | 64.8 | 11.4 | ⚠️ |
-| Open Data Comply | 83.4 | 100% | 83.4 | **0.0** | ✅ |
-| Security Posture | 87.6 | 100% | 87.6 | **0.0** | ✅ |
-| Interoperabilidad | 86.3 | 100% | 86.3 | **0.0** | ✅ |
-| 🔵 **LegalTech Compliance** | **69.1** | **60.0%** | **41.5** | **27.6** | 🔵 |
+| Dimension | `score_Ω` | `Ψ` | `dt_score` | `δ (gap)` | Status |
+|-----------|:---------:|:---:|:----------:|:---------:|:------:|
+| Gobernanza TOGAF | 91.7 | 70.0% | 64.2 | 27.5 | ⚠️ Gap |
+| Control COBIT | 84.3 | 100% | 84.3 | **0.0** | ✅ Full |
+| Resiliencia NIST | 77.5 | 100% | 77.5 | **0.0** | ✅ Full |
+| Integración IA | 87.2 | 85.0% | 74.1 | 13.1 | ⚠️ Gap |
+| Blockchain Adoption | 76.2 | 85.0% | 64.8 | 11.4 | ⚠️ Gap |
+| Open Data Comply | 83.4 | 100% | 83.4 | **0.0** | ✅ Full |
+| Security Posture | 87.6 | 100% | 87.6 | **0.0** | ✅ Full |
+| Interoperabilidad | 86.3 | 100% | 86.3 | **0.0** | ✅ Full |
+| 🔵 **LegalTech Compliance** | **69.1** | **60.0%** | **41.5** | **27.6** | 🔵 Critical |
 | **OVERALL** | **82.6** | — | **73.7** | **8.9** | |
 
 </div>
@@ -200,22 +209,22 @@ Quantifies unrealized governance potential per dimension
 ### Gap Visual Summary
 
 ```
-Dimension    Score  ─────────────────────────────── Gap
-────────────────────────────────────────────────────────
-TOGAF        64.2 / 91.7  ████████████████████░░░░░░░  ⚠️  -27.5
-COBIT        84.3 / 84.3  ████████████████████████████  ✅   0.0
-NIST         77.5 / 77.5  ██████████████████████████░  ✅   0.0
-AI           74.1 / 87.2  █████████████████████████░░  ⚠️  -13.1
-BLOCKCHAIN   64.8 / 76.2  ████████████████████░░░░░░░  ⚠️  -11.4
-OPEN DATA    83.4 / 83.4  ████████████████████████████  ✅   0.0
-SECURITY     87.6 / 87.6  █████████████████████████████  ✅   0.0
-INTEROP      86.3 / 86.3  █████████████████████████████  ✅   0.0
-LEGALTECH    41.5 / 69.1  ██████████████░░░░░░░░░░░░░  🔵  -27.6
-────────────────────────────────────────────────────────
-OVERALL      73.7 / 82.6                          gap -8.9
+Dimension    dt / ref  ─────────────────────────────  Gap
+──────────────────────────────────────────────────────────
+TOGAF        64 / 91   ████████████████████░░░░░░░░░  ⚠️  −27.5
+COBIT        84 / 84   ████████████████████████████░  ✅   0.0
+NIST         77 / 77   ██████████████████████████░░░  ✅   0.0
+AI           74 / 87   ████████████████████████░░░░░  ⚠️  −13.1
+BLOCKCHAIN   64 / 76   ████████████████████░░░░░░░░░  ⚠️  −11.4
+OPEN DATA    83 / 83   ████████████████████████████░  ✅   0.0
+SECURITY     87 / 87   █████████████████████████████  ✅   0.0
+INTEROP      86 / 86   █████████████████████████████  ✅   0.0
+LEGALTECH    41 / 69   ██████████████░░░░░░░░░░░░░░░  🔵  −27.6
+──────────────────────────────────────────────────────────
+OVERALL      73 / 82                              gap −8.9
 ```
 
-> **Top gaps:** `LEGALTECH` (-27.6) · `TOGAF` (-27.5) · `AI` (-13.1) — See `GET /api/validation` for full remediation map.
+> **Top gaps:** `LEGALTECH` (−27.6) · `TOGAF` (−27.5) · `AI` (−13.1)
 
 ---
 
@@ -238,26 +247,26 @@ curl http://localhost:8080/api/methodology  # formal model + 5-phase pipeline
 open http://localhost:8080/docs             # Swagger UI
 ```
 
-> 💡 **Live editing:** Modify `data/MALTG_onto.owl` or `data/dt_arch.json` then press **Recargar Datos** and scores update instantly, no rebuild required.
+> 💡 **Live editing:** Modify `data/MALTG_onto.owl` or `data/dt_arch.json` → press **↺ Recargar Datos** → scores update instantly, no rebuild required.
 
 ---
 
 ## 📂 Project Structure
 
 <details>
-<summary><strong>📁 Expand full file tree</strong></summary>
+<summary><b>📁 Expand full file tree</b></summary>
 
 ```
 maltg/
 ├── 📄  README.md
 ├── 🐳  docker-compose.yml              ← single-command deploy, port 8080
 │
-├── 📁  data/                           ← Edit here to update dashboard live
+├── 📁  data/                           ← ✏️  Edit here to update dashboard live
 │   ├── 🦉  MALTG_onto.owl              ← OWL 2 / RDF-XML  (54 classes, 15 props)
 │   └── 🔷  dt_arch.json                ← Digital Twin (39 services, 54 connections)
 │
 ├── 📁  backend/
-│   ├── 🐍  main.py                     ← FastAPI · 5 endpoints · Psi scoring engine
+│   ├── 🐍  main.py                     ← FastAPI · 5 endpoints · Ψ scoring engine
 │   ├── 📋  requirements.txt
 │   └── 🐳  Dockerfile                  ← python:3.12-slim
 │
@@ -272,8 +281,8 @@ maltg/
 └── 📁  evaluation/                     ← academic replication package
     ├── 📄  expert_survey.pdf
     ├── 📊  responses_anonymized.csv
-    ├── 📓  analysis.ipynb              ← reproducible statistical analysis
-    └── 🧪  test_scoring.py             ← pytest: verifies all published scores
+    ├── 📓  analysis.ipynb
+    └── 🧪  test_scoring.py
 ```
 
 </details>
@@ -282,21 +291,21 @@ maltg/
 
 ## 📡 API Reference
 
-| Method | Endpoint | Description | Key Response Fields |
-|:------:|----------|-------------|---------------------|
+| Method | Endpoint | Description | Key Fields |
+|:------:|----------|-------------|------------|
 | `GET` | `/api/health` | System status + file hashes | `owl_exists` · `owl_hash` · `dt_hash` |
-| `GET` | `/api/ontology` | OWL parsed to D3 force graph | `nodes[]` · `links[]` · `node_count` |
-| `GET` | `/api/dt-arch` | Digital Twin data | `services[]` · `connections[]` · `layers[]` |
+| `GET` | `/api/ontology` | OWL → D3 force graph | `nodes[]` · `links[]` · `node_count` |
+| `GET` | `/api/dt-arch` | Digital Twin data | `services[]` · `connections[]` |
 | `GET` | **`/api/validation`** | **9-dim conformance scores** | `dimensions[]` · `overall_gap` · `top_gaps` |
-| `GET` | `/api/methodology` | Formal model `(Omega, Delta, Gamma, Psi, delta)` | `formal_model` · `phases[]` |
-| `GET` | `/docs` | Interactive Swagger UI | — |
+| `GET` | `/api/methodology` | Formal model | `formal_model` · `phases[]` |
+| `GET` | `/docs` | Swagger UI | — |
 
 ---
 
 ## ✏️ Extending the Ontology
 
 <details>
-<summary><strong>🦉 Add a new LegalTech concept to <code>MALTG_onto.owl</code></strong></summary>
+<summary><b>🦉 Add a new LegalTech concept to <code>MALTG_onto.owl</code></b></summary>
 
 ```xml
 <!-- Add inside <rdf:RDF> ... </rdf:RDF> -->
@@ -314,7 +323,7 @@ maltg/
 </details>
 
 <details>
-<summary><strong>🔷 Add a microservice to <code>dt_arch.json</code></strong></summary>
+<summary><b>🔷 Add a microservice to <code>dt_arch.json</code></b></summary>
 
 ```json
 {
@@ -332,19 +341,19 @@ maltg/
 </details>
 
 <details>
-<summary><strong>🎨 Available <code>maltg:layer</code> values and colors</strong></summary>
+<summary><b>🎨 Available <code>maltg:layer</code> color values</b></summary>
 
 | Value | Swatch | Layer |
 |-------|:------:|-------|
-| `core` | ![core](https://img.shields.io/badge/%20%20%20%20-00e5ff?style=flat-square) | MALTG root nodes |
-| `togaf` | ![togaf](https://img.shields.io/badge/%20%20%20%20-00e5ff?style=flat-square) | Foundation — TOGAF 9.2 |
-| `cobit` | ![cobit](https://img.shields.io/badge/%20%20%20%20-ffc947?style=flat-square) | Foundation — COBIT 5 |
-| `nist` | ![nist](https://img.shields.io/badge/%20%20%20%20-ff4d6d?style=flat-square) | Foundation — NIST CSF |
-| `ai` | ![ai](https://img.shields.io/badge/%20%20%20%20-a855f7?style=flat-square) | Tech Integration — AI/ML |
-| `blockchain` | ![bc](https://img.shields.io/badge/%20%20%20%20-10e98c?style=flat-square) | Tech Integration — Blockchain/DLT |
-| `opendata` | ![od](https://img.shields.io/badge/%20%20%20%20-ff9a3c?style=flat-square) | Tech Integration — Open Data |
-| `security` | ![sec](https://img.shields.io/badge/%20%20%20%20-f472b6?style=flat-square) | Tech Integration — Security |
-| `legaltech` | ![lt](https://img.shields.io/badge/%20%20%20%20-60a5fa?style=flat-square) | LegalTech Domain *(v3)* |
+| `core` | ![](https://img.shields.io/badge/--%20-00e5ff?style=flat-square&labelColor=00e5ff) | MALTG root nodes |
+| `togaf` | ![](https://img.shields.io/badge/--%20-00e5ff?style=flat-square&labelColor=00e5ff) | Foundation — TOGAF 9.2 |
+| `cobit` | ![](https://img.shields.io/badge/--%20-ffc947?style=flat-square&labelColor=ffc947) | Foundation — COBIT 5 |
+| `nist` | ![](https://img.shields.io/badge/--%20-ff4d6d?style=flat-square&labelColor=ff4d6d) | Foundation — NIST CSF |
+| `ai` | ![](https://img.shields.io/badge/--%20-a855f7?style=flat-square&labelColor=a855f7) | Tech Integration — AI/ML |
+| `blockchain` | ![](https://img.shields.io/badge/--%20-10e98c?style=flat-square&labelColor=10e98c) | Tech Integration — Blockchain/DLT |
+| `opendata` | ![](https://img.shields.io/badge/--%20-ff9a3c?style=flat-square&labelColor=ff9a3c) | Tech Integration — Open Data |
+| `security` | ![](https://img.shields.io/badge/--%20-f472b6?style=flat-square&labelColor=f472b6) | Tech Integration — Security |
+| `legaltech` | ![](https://img.shields.io/badge/--%20-60a5fa?style=flat-square&labelColor=60a5fa) | LegalTech Domain *(v3)* |
 
 </details>
 
@@ -358,26 +367,26 @@ maltg/
 |-----------|-------|
 | **Full title** | *MALTG: A Multi-Layer LegalTech Governance Ontology with Structural Digital Twin-Based Conformance Validation for Integrated Enterprise Standards* |
 | **Target journal** | Knowledge-Based Systems — Elsevier · **Q1 · IF 8.8** |
-| **Methodology** | OWL 2 ontology engineering + Structural Digital Twin + multi-case study (N>=2 LegalTech orgs) |
-| **Frameworks integrated** | TOGAF 9.2 · COBIT 5 · NIST CSF 1.1 · GDPR · eIDAS · NIS2 |
-| **Scientific gap** | First formal multi-framework validator with domain-specific LegalTech ontology layer and automated DT-based conformance scoring |
+| **Methodology** | OWL 2 ontology engineering + Structural Digital Twin + multi-case study (N≥2 LegalTech orgs) |
+| **Frameworks** | TOGAF 9.2 · COBIT 5 · NIST CSF 1.1 · GDPR · eIDAS · NIS2 |
+| **Scientific gap** | First formal multi-framework validator with domain-specific LegalTech ontology and automated DT-based conformance scoring |
 
 </div>
 
 <details>
-<summary><strong>🔬 Research Questions</strong></summary>
+<summary><b>🔬 Research Questions</b></summary>
 
 | # | Question | Validation Method |
 |:---:|----------|-----------------|
-| **RQ1** | How can OWL 2 formalize the semantic intersection of TOGAF/COBIT/NIST in LegalTech? | Expert survey — Lawshe IVC >= 0.78 · Cronbach alpha >= 0.70 |
-| **RQ2** | Can a Structural Digital Twin automatically quantify governance conformance gaps? | Psi engine vs manual audit — Pearson r >= 0.70 |
+| **RQ1** | How can OWL 2 formalize the semantic intersection of TOGAF/COBIT/NIST in LegalTech? | Expert survey — Lawshe IVC ≥ 0.78 · Cronbach α ≥ 0.70 |
+| **RQ2** | Can a Structural Digital Twin automatically quantify governance conformance gaps? | Ψ engine vs manual audit — Pearson r ≥ 0.70 |
 | **RQ3** | Which dimensions show the largest gaps in LegalTech SMEs? | Multi-case study + statistical analysis |
 | **RQ4** | How does MALTG compare to ArchiMate+TOGAF and SABSA? | 10-attribute Framework Comparison Matrix |
 
 </details>
 
 <details>
-<summary><strong>📖 BibTeX Citation</strong></summary>
+<summary><b>📖 BibTeX Citation</b></summary>
 
 ```bibtex
 @article{maltg_legaltech_2025,
@@ -402,7 +411,7 @@ maltg/
 
 | Level | ACM Standard | MALTG Guarantee |
 |:-----:|:------------:|-----------------|
-| **L1** Repeatability | Artifact Available | `docker compose up` — identical scores on any machine with Docker >= 20.10 |
+| **L1** Repeatability | Artifact Available | `docker compose up` → identical scores on any machine with Docker ≥ 20.10 |
 | **L2** Replicability | Artifact Evaluated | Zenodo DOI · OWL in Turtle + RDF/XML · `pytest evaluation/test_scoring.py` |
 | **L3** Reproducibility | Results Reproduced | Expert survey public · anonymized data open · Jupyter analysis executable |
 
@@ -432,16 +441,16 @@ pytest evaluation/test_scoring.py -v
 
 <div align="center">
 
-<p>
-  <a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/TOGAF-9.2-00e5ff?style=for-the-badge&labelColor=050810" alt="TOGAF"/></a>
-  <a href="https://www.isaca.org/resources/cobit"><img src="https://img.shields.io/badge/COBIT-5-ffc947?style=for-the-badge&labelColor=050810" alt="COBIT"/></a>
-  <a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/NIST_CSF-1.1-ff4d6d?style=for-the-badge&labelColor=050810" alt="NIST CSF"/></a>
-  <a href="https://gdpr.eu"><img src="https://img.shields.io/badge/GDPR-2016%2F679-60a5fa?style=for-the-badge&labelColor=050810" alt="GDPR"/></a>
-  <a href="https://digital-strategy.ec.europa.eu"><img src="https://img.shields.io/badge/eIDAS-2.0-60a5fa?style=for-the-badge&labelColor=050810" alt="eIDAS"/></a>
-  <a href="https://www.enisa.europa.eu"><img src="https://img.shields.io/badge/NIS2-2022%2F2555-60a5fa?style=for-the-badge&labelColor=050810" alt="NIS2"/></a>
-</p>
+<a href="https://www.opengroup.org/togaf"><img src="https://img.shields.io/badge/TOGAF-9.2-00e5ff?style=for-the-badge&labelColor=0d1117" alt="TOGAF"/></a>
+<a href="https://www.isaca.org/resources/cobit"><img src="https://img.shields.io/badge/COBIT-5-ffc947?style=for-the-badge&labelColor=0d1117" alt="COBIT"/></a>
+<a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/NIST_CSF-1.1-ff4d6d?style=for-the-badge&labelColor=0d1117" alt="NIST CSF"/></a>
+<a href="https://gdpr.eu"><img src="https://img.shields.io/badge/GDPR-2016%2F679-60a5fa?style=for-the-badge&labelColor=0d1117" alt="GDPR"/></a>
+<a href="https://digital-strategy.ec.europa.eu"><img src="https://img.shields.io/badge/eIDAS-2.0-60a5fa?style=for-the-badge&labelColor=0d1117" alt="eIDAS"/></a>
+<a href="https://www.enisa.europa.eu"><img src="https://img.shields.io/badge/NIS2-2022%2F2555-60a5fa?style=for-the-badge&labelColor=0d1117" alt="NIS2"/></a>
+
+<br/><br/>
 
 <sub><b>MALTG Architecture Validator</b> · FastAPI · D3.js v7 · Chart.js v4 · OWL 2 · Docker Compose</sub><br/>
-<sub>TOGAF® — The Open Group · COBIT® — ISACA · NIST CSF — NIST (public domain) · GDPR — EUR-Lex · eIDAS — EU Commission · NIS2 — ENISA</sub>
+<sub>TOGAF® The Open Group · COBIT® ISACA · NIST CSF NIST (public domain) · GDPR EUR-Lex · eIDAS EU Commission · NIS2 ENISA</sub>
 
 </div>
