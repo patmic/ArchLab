@@ -20,6 +20,18 @@
 [![License](https://img.shields.io/badge/license-MIT-f472b6?style=flat-square&labelColor=050810)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-zenodo.XXXXX-64748b?style=flat-square&labelColor=050810)](https://zenodo.org)
 
+
+<br/>
+
+[![Version](https://img.shields.io/badge/version-3.0.0--legaltech-00e5ff?style=flat-square&labelColor=050810)](https://github.com)
+[![OWL Classes](https://img.shields.io/badge/OWL%202%20Classes-54-a855f7?style=flat-square&labelColor=050810)](data/MALTG_onto.owl)
+[![DT Services](https://img.shields.io/badge/DT%20Services-39-10e98c?style=flat-square&labelColor=050810)](data/dt_arch.json)
+[![Dimensions](https://img.shields.io/badge/Validation%20Dims-9-ffc947?style=flat-square&labelColor=050810)](backend/main.py)
+[![Docker](https://img.shields.io/badge/Docker-ready-60a5fa?style=flat-square&labelColor=050810&logo=docker&logoColor=60a5fa)](docker-compose.yml)
+[![Target](https://img.shields.io/badge/Target-KBS%20Q1%20%C2%B7%20IF%208.8-ff9a3c?style=flat-square&labelColor=050810)](https://www.sciencedirect.com/journal/knowledge-based-systems)
+[![License](https://img.shields.io/badge/license-MIT-f472b6?style=flat-square&labelColor=050810)](LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-zenodo.XXXXX-64748b?style=flat-square&labelColor=050810)](https://zenodo.org)
+
 <br/>
 
 > **MALTG** is a multi-layer governance ontology (OWL 2) and live-validation dashboard that measures conformance between a formal enterprise standard reference (`MALTG_onto.owl`) and a structural digital twin of an actual LegalTech implementation (`dt_arch.json`). Integrates TOGAF 9.2 · COBIT 5 · NIST CSF 1.1 · GDPR · eIDAS · NIS2 in a single, formally defined, automatically scored architecture.
