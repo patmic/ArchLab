@@ -66,7 +66,7 @@
 
 ## 🔬 Formal Validation Methodology
 
-<img src="docs/pipeline.svg" width="100%" alt="5-Phase MALTG Validation Pipeline"/>
+<img src="assets/pipeline.svg" width="100%" alt="5-Phase MALTG Validation Pipeline"/>
 
 <br/>
 
@@ -86,7 +86,7 @@ The methodology is formalized as the 5-tuple **MALTG = ⟨Ω, Δ, Γ, Ψ, δ⟩*
 
 ## 📊 Validation Results — v3.0
 
-<img src="docs/results.svg" width="100%" alt="9-Dimension Validation Results"/>
+<img src="assets/results.svg" width="100%" alt="9-Dimension Validation Results"/>
 
 <br/>
 
