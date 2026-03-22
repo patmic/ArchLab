@@ -1,13 +1,10 @@
 <div align="center"><br/>
 
-<img src="assets/line.svg" width="100%"/>
-
-# <font color="#6666AA"> ⬢ ⇄ ⬡ ⇄ 🕸️ </font>
 # <font color="#6666AA"> Structural Digital Twin–Driven Validation for a Multidimensional LegalTech Governance Architecture Ontology </font>
-
+# <font color="#6666AA"> ⬢ ⇄ ⬡ ⇄ 🕸️ </font>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0f172a&center=true&vCenter=true&width=860&height=60&lines=MALTG+v3" alt="MALTG v3"/>
-
+<img src="assets/line.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=1e3a5f&center=true&vCenter=true&width=860&height=40&lines=Multi-Layer+LegalTech+Governance+Ontology;Structural+Digital+Twin+Validation;TOGAF+%C2%B7+COBIT+%C2%B7+NIST+%C2%B7+GDPR+%C2%B7+eIDAS+%C2%B7+NIS2;OWL+2+%C2%B7+FastAPI+%C2%B7+D3.js+%C2%B7+Docker" alt="Typing SVG"/>
 
